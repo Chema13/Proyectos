@@ -1,0 +1,47 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Walther",
+      "telefono": "503-196-4864",
+      "email": "welstow0@acquirethisname.com",
+      "empresa": "Topdrive"
+    },
+    {
+      "id": 2,
+      "nombre": "Guthrie",
+      "telefono": "221-509-9372",
+      "email": "gstickley1@csmonitor.com",
+      "empresa": "Jaloo"
+    },
+    {
+      "id": 3,
+      "nombre": "Kirstin",
+      "telefono": "806-873-1785",
+      "email": "kwarmington2@paypal.com",
+      "empresa": "Snaptags"
+    },
+    {
+      "id": 4,
+      "nombre": "Sabra",
+      "telefono": "818-155-2266",
+      "email": "screaven3@ca.gov",
+      "empresa": "Dabfeed"
+    },
+    {
+      "id": 5,
+      "nombre": "Penelope",
+      "telefono": "602-241-5138",
+      "email": "pgodehardsf4@shop-pro.jp",
+      "empresa": "Lajo"
+    },
+    {
+      "nombre": "José María",
+      "empresa": "UPIICSA SADECV",
+      "email": "correo@correo.com",
+      "telefono": "5577889944",
+      "notas": "En busca de realizar su servicio social.",
+      "id": 9
+    }
+  ]
+}
